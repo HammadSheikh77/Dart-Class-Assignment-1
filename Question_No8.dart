@@ -3,6 +3,6 @@
 void main() {
   //QUESTION NO:8
 
-  List myList = ["Hammad", "Bilal", "Owais", "Ali", "Umer"];
+  List myList = ["Hammad", "Bilal", "Owais", "Ali", "Umer"]; //Using List
   print(myList);
 }
