@@ -3,10 +3,14 @@
 void main() {
   //QUESTION NO:6
   String alphabet = "u";
-  if (alphabet == "a" || alphabet == "e" || alphabet "i" || alphabet "o" || alphabet "u"){
-    print ("Alphabet Is Vowel");
-  }
-  else {
+  if (alphabet == "a" ||
+      alphabet == "e" ||
+      alphabet == "i" ||
+      alphabet == "o" ||
+      alphabet == "u") {
+    //Body of if-else
+    print("Alphabet Is Vowel");
+  } else {
     print("Alphabet Is Constant");
-  }
+  } //End of if-else
 }
