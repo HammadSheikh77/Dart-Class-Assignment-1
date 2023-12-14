@@ -8,9 +8,9 @@ void main() {
   int breadth = 50;
 
   if (length == breadth) {
-    //Body of if-else
+    //Starting of if-else
     print("SQUARE");
   } else {
     print("REACTANGULE");
-  } //End of if-else
+  } //Ending of if-else
 }

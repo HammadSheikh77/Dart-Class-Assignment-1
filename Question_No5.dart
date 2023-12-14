@@ -14,6 +14,7 @@ void main() {
 
   num temp = 12;
   if (temp <= 0) {
+    //Starting of if-else
     print("Freezing Weather");
   } else if (temp > 0 || temp <= 10) {
     print("Very cold Weather");
@@ -25,5 +26,5 @@ void main() {
     print("Hot Weather");
   } else {
     print("Very Hot Weather");
-  }
+  } //Ending of if-else
 }

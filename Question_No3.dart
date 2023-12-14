@@ -14,9 +14,9 @@ void main() {
   num per = attended / classes * 100;
   print("percentage of class attended: $per");
   if (per < 75) {
-    //Body of if-else
+    //Starting of if-else
     print("NOT ALLOWED");
   } else {
     print("ALLOWED");
-  } //End of if-else
+  } //Ending of if-else
 }

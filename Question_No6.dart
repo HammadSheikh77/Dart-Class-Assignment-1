@@ -8,9 +8,9 @@ void main() {
       alphabet == "i" ||
       alphabet == "o" ||
       alphabet == "u") {
-    //Body of if-else
+    //Starting of if-else
     print("Alphabet Is Vowel");
   } else {
     print("Alphabet Is Constant");
-  } //End of if-else
+  } //Ending of if-else
 }
