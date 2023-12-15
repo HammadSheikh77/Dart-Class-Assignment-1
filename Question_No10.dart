@@ -4,6 +4,7 @@ void main() {
   //QUESTION NO:10
 
   List days = [
+    //Using List
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -12,6 +13,7 @@ void main() {
     "Saturday",
     "Sunday"
   ];
+  //Using method
   days.removeLast();
   print("days :$days");
   days.removeLast();
